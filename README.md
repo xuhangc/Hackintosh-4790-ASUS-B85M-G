@@ -11,7 +11,7 @@ VGA: AMD Radeon R9 290X
 SSD: Samsung EVO 850
 ```
 
-# OpenCore(0.6.2)
+# OpenCore(0.6.3)
 
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
